@@ -6,9 +6,9 @@
 #leave little secrets when checking the code you will see like developers leaving comments and saying when the app was created or some-
 #thing like it!
 #now what year are we in right now 
-#
+#2024
 #correct
 #now what proggraming laungage are we in right now?
-#
+#python
 #correct!
 #now you know comments!

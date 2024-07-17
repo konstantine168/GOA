@@ -10,16 +10,12 @@ print("ada12345")
 #აბა მიდი (პრჭყალები გამოიყენე და თუ გინდა კომენტარებიც)
 HEHE = "ჰეჰე"
 HAHA = "ჰაჰა"
-print(555_69_8998)
+print("555 69 8998")
 #CORRECT!
-#extra comment :)
-#
-#
-#
 #ეხლა შენთვითონ 
+print("chiancvela")
 #steps. name required name two required always (the print command required and that gets you the mission acomplished
 #rules only 3 lines required NO MORE!)
-
 
 
 
