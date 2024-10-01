@@ -16,5 +16,11 @@ def function(len_text):
     len_text = input("enter text:")
     print(len(len_text))
 # 7)
-bruh = ["hi"]
-bruh.print_hellow()
+def function(friends):
+    friends = [
+            "friend_1"
+           "friend_2"
+          "friend_3"
+         "friend_4"
+    ]
+    print(friends)
