@@ -37,7 +37,7 @@ print(x)
 text = "i love html but its not a programming language :'(" [::-1]
 x = text.replace(" " , "")
 print(f"{x}")
-# 6) nothing used, just inteligience:
+# 6) nothing used, just inteligience;) :
 names = "name 1 name 2 name 3"
 
 capital_names = names.upper()
